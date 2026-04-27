@@ -1,0 +1,311 @@
+restaurant_id,restaurant_name,menu_section,dish_name,size_name,price
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Bundle Meals,Triple Dip Box,Regular,270.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Bundle Meals,Share Box,Regular,485.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Bundle Meals,Grand Share Box,Regular,560.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Bundle Meals,Mix 2 Meal,Medium,229.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Bundle Meals,Mix 2 Meal,Regular,189.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Bundle Meals,Mix 2 Meal,Small,149.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Big Breakfast - Regular Bun,WITH_DRINK,145.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Big Breakfast - Regular Bun,Regular,120.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,McFalafel,WITH_DRINK,65.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,McFalafel,Regular,40.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,McFalafel,WITH_DRINK_&_HASH_BROWNS,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Eggs & Cheese Wrap,WITH_DRINK,100.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Eggs & Cheese Wrap,WITH_DRINK_&_HASH_BROWNS,125.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage & Egg Wrap,WITH_DRINK,110.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage & Egg Wrap,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage & Egg Wrap,WITH_DRINK_&_HASH_BROWNS,135.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Egg McMuffin - Regular Bun,WITH_DRINK,105.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Egg McMuffin - Regular Bun,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Egg McMuffin - Regular Bun,WITH_DRINK_&_HASH_BROWNS,130.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage McMuffin - Regular Bun,WITH_DRINK,110.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage McMuffin - Regular Bun,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage McMuffin - Regular Bun,WITH_DRINK_&_HASH_BROWNS,135.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage Egg McMuffin - Regular Bun,WITH_DRINK,120.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage Egg McMuffin - Regular Bun,Regular,95.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Sausage Egg McMuffin - Regular Bun,WITH_DRINK_&_HASH_BROWNS,145.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Chicken McMuffin - Regular Bun,WITH_DRINK,130.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Chicken McMuffin - Regular Bun,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Chicken McMuffin - Regular Bun,WITH_DRINK_&_HASH_BROWNS,145.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Spicy Chicken McMuffin - Regular Bun,WITH_DRINK,115.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Spicy Chicken McMuffin - Regular Bun,Regular,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Spicy Chicken McMuffin - Regular Bun,WITH_DRINK_&_HASH_BROWNS,140.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Chicken McMuffin with Egg - Regular Bun,WITH_DRINK,120.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Chicken McMuffin with Egg - Regular Bun,Regular,95.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Chicken McMuffin with Egg - Regular Bun,WITH_DRINK_&_HASH_BROWNS,145.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Spicy Chicken McMuffin with Egg - Regular Bun,WITH_DRINK,170.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Spicy Chicken McMuffin with Egg - Regular Bun,Regular,100.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Spicy Chicken McMuffin with Egg - Regular Bun,WITH_DRINK_&_HASH_BROWNS,160.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,Hash Browns,Regular,45.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Breakfast,McMuffin,Regular,45.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,McSalads,Chicken Caesar Salad,Regular,170.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,McSalads,Green Salad,Regular,105.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Big Mac,LARGE_MEAL,240.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Big Mac,MEDIUM_MEAL,200.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Big Mac,Sandwich,135.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Big Tasty,LARGE_MEAL,373.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Big Tasty,MEDIUM_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Big Tasty,Sandwich,255.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Beef Burger,Sandwich,70.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Cheese Burger,Sandwich,75.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Cheese Burger Deluxe,Sandwich,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,McDouble,Sandwich,140.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Little Tasty,LARGE_MEAL,263.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Little Tasty,MEDIUM_MEAL,223.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Little Tasty,Sandwich,150.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Beef Burger,LARGE_MEAL,248.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Beef Burger,MEDIUM_MEAL,208.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Beef Burger,Sandwich,135.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Cheese Burger,LARGE_MEAL,263.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Cheese Burger,MEDIUM_MEAL,223.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Cheese Burger,Sandwich,150.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,McRoyale,LARGE_MEAL,373.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,McRoyale,MEDIUM_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,McRoyale,Sandwich,265.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double McRoyale,LARGE_MEAL,475.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double McRoyale,MEDIUM_MEAL,435.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double McRoyale,Sandwich,350.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Big Tasty,LARGE_MEAL,485.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Big Tasty,MEDIUM_MEAL,445.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Big Tasty,Sandwich,360.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Big Mac,LARGE_MEAL,405.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Big Mac,MEDIUM_MEAL,365.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beef,Double Big Mac,Sandwich,265.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Wrap,LARGE_MEAL,229.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Wrap,MEDIUM_MEAL,189.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Wrap,Sandwich,125.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Wrap,LARGE_MEAL,234.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Wrap,MEDIUM_MEAL,194.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Wrap,Sandwich,125.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,BBQ Chicken Wrap,LARGE_MEAL,229.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,BBQ Chicken Wrap,MEDIUM_MEAL,189.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,BBQ Chicken Wrap,Sandwich,125.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken MACDO,Sandwich,75.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken MACDO,Sandwich,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken MACDO Deluxe,LARGE_MEAL,230.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken MACDO Deluxe,MEDIUM_MEAL,190.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken MACDO Deluxe,Sandwich,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken MACDO Deluxe,Sandwich,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McChicken,LARGE_MEAL,240.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McChicken,MEDIUM_MEAL,200.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McChicken,Sandwich,135.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Double McChicken,LARGE_MEAL,405.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Double McChicken,MEDIUM_MEAL,365.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Double McChicken,Sandwich,265.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Big Tasty Chicken,LARGE_MEAL,373.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Big Tasty Chicken,MEDIUM_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Big Tasty Chicken,Sandwich,255.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Grand Chicken Premier,LARGE_MEAL,373.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Grand Chicken Premier,MEDIUM_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Grand Chicken Premier,Sandwich,255.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Grand Chicken Spicy,LARGE_MEAL,373.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Grand Chicken Spicy,MEDIUM_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Grand Chicken Spicy,Sandwich,255.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Mac,LARGE_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Mac,MEDIUM_MEAL,293.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Mac,Sandwich,226.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Mac,LARGE_MEAL,330.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Mac,MEDIUM_MEAL,293.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Mac,Sandwich,226.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Fillet,LARGE_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Fillet,MEDIUM_MEAL,293.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Chicken Fillet,Sandwich,226.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Fillet,LARGE_MEAL,333.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Fillet,MEDIUM_MEAL,293.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Spicy Chicken Fillet,Sandwich,226.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McNuggets - 4 Pieces,Box,130.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McNuggets - 6 Pieces,Box,150.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McNuggets - 6 Pieces,LARGE_MEAL,278.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McNuggets - 6 Pieces,MEDIUM_MEAL,238.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McNuggets - 9 Pieces,Box,185.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McNuggets - 9 Pieces,LARGE_MEAL,308.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,McNuggets - 9 Pieces,MEDIUM_MEAL,268.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Big Mac Chicken,LARGE_MEAL,330.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Big Mac Chicken,MEDIUM_MEAL,293.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Chicken,Big Mac Chicken,Sandwich,226.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,Chicken Strips,Regular,135.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,Potato Wedges,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,Chicken McNuggets,4_PIECES,130.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,Chicken McNuggets,6_PIECES,150.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,Chicken McNuggets,9_PIECES,185.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,McFries,Large,95.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,McFries,Medium,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,McFries,Regular,75.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,McFries,Small,65.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Sides,Chicken Caesar Salad,Regular,170.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Barbecue Sauce,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Hot Mustard Sauce,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Sweet N Sour Sauce,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Big Tasty Sauce,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,McRoyale Sauce,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Tartar Sauce,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Caesar Dressing,Regular,45.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Italian Dressing,Regular,45.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Thousand Island Dressing,Regular,45.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Mayonnaise,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Dips & Dressings,Mustard Mayo Sauce,Regular,35.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Desserts,Oreo McFlurry,Regular,100.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Desserts,Chocolate Fudge Sundae,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Desserts,Caramel Sundae,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Desserts,Strawberry Sundae,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Desserts,Apple Pie,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Desserts,Strawberry Custard Pie,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Chocolate Milkshake,Medium,100.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Chocolate Milkshake,Regular,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Strawberry Milkshake,Medium,100.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Strawberry Milkshake,Regular,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Vanilla Milkshake,Medium,100.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Vanilla Milkshake,Regular,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,McFizz® Blue Pation,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,McFizz® Strawberry,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Orange Juice,Regular,75.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Orange Juice,Small,65.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola,Large,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola,Medium,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola,Regular,70.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola,Small,60.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola Zero,Large,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola Zero,Medium,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola Zero,Regular,70.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola Zero,Small,60.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Sprite,Large,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Sprite,Medium,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Sprite,Regular,70.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Sprite,Small,60.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Fanta Orange,Large,90.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Fanta Orange,Medium,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Fanta Orange,Regular,70.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Fanta Orange,Small,60.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Coca Cola Can,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Sprite Can,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Sprite Zero Can,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Fanta Orange Can,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,American Coffee,Large,65.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,American Coffee,Regular,55.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Latte,Large,95.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Latte,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Cappuccino,Large,95.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Cappuccino,Regular,85.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Hot Tea,Regular,45.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Espresso,Double,32.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Espresso,Regular,25.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Water,Regular,30.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Mixology Strawberry,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Mixology Blue Curacao,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Mixology Passion Fruit,Regular,80.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Moccachino,Large,60.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Beverages,Moccachino,Regular,45.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Happy Meals,Beef Burger,Small,140.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Happy Meals,Cheese Burger,Small,145.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Happy Meals,Chicken MACDO,Small,145.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Happy Meals,McNuggets - 4 Pieces,Small,145.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Happy Meals,McNuggets - 6 Pieces,Small,185.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Happy Meals,Double Beef Burger,Small,170.0
+361b8f50-2224-11e8-924e-0242ac110011,McDonald's,Happy Meals,Double Cheese Burger,Small,185.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Bacon Mushroom Jack Sandwich,Bacon Mushroom Jack Sandwich,150gm,240.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Bacon Mushroom Jack Sandwich,Bacon Mushroom Jack Sandwich,200gm,281.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Bacon Mushroom Jack Sandwich,Bacon Mushroom Jack Sandwich,400gm,376.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Bacon Mushroom Jack Sandwich,Bacon Mushroom Jack Sandwich,200gm Combo,281.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Bacon Mushroom Jack Sandwich,Bacon Mushroom Jack Sandwich,150gm Combo,240.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Bacon Mushroom Jack Sandwich,Bacon Mushroom Jack Sandwich,400gm Combo,376.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,King Mo,King Mo,Regular,642.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Charbroiled BBQ Sandwich,Charbroiled BBQ Sandwich,150gm,193.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Charbroiled BBQ Sandwich,Charbroiled BBQ Sandwich,200gm,223.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Charbroiled BBQ Sandwich,Charbroiled BBQ Sandwich,400gm,329.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Charbroiled BBQ Sandwich,Charbroiled BBQ Sandwich,200gm Combo,223.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Charbroiled BBQ Sandwich,Charbroiled BBQ Sandwich,150gm Combo,193.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Charbroiled BBQ Sandwich,Charbroiled BBQ Sandwich,400gm Combo,329.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Old School Sandwich,Old School Sandwich,150gm,188.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Old School Sandwich,Old School Sandwich,200gm,223.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Old School Sandwich,Old School Sandwich,400gm,329.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Old School Sandwich,Old School Sandwich,200gm Combo,223.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Old School Sandwich,Old School Sandwich,150gm Combo,188.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,Old School Sandwich,Old School Sandwich,400gm Combo,329.0
+3619f759-2224-11e8-924e-0242ac110011,Buffalo Burger,4 In The Box,4 In The Box,Regular,1260.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Double Whopper Sandwich,Double Whopper Sandwich,Large Meal,310.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Double Whopper Sandwich,Double Whopper Sandwich,Medium Meal,290.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Double Whopper Sandwich,Double Whopper Sandwich,Sandwich,240.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Whopper Sandwich,Whopper Sandwich,Large Meal,225.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Whopper Sandwich,Whopper Sandwich,Medium Meal,205.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Whopper Sandwich,Whopper Sandwich,Sandwich,155.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Classic Bundle,Classic Bundle,Regular,350.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Steakhouse Beef Sandwich,Steakhouse Beef Sandwich,Large Meal,280.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Steakhouse Beef Sandwich,Steakhouse Beef Sandwich,Medium Meal,260.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Steakhouse Beef Sandwich,Steakhouse Beef Sandwich,Sandwich,210.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Swiss Mushroom Single Sandwich,Swiss Mushroom Single Sandwich,Large Meal,240.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Swiss Mushroom Single Sandwich,Swiss Mushroom Single Sandwich,Medium Meal,220.0
+3619ff2b-2224-11e8-924e-0242ac110011,Burger King,Swiss Mushroom Single Sandwich,Swiss Mushroom Single Sandwich,Sandwich,170.0
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Mushroom Burger,BB Mushroom Burger,Go Mighty Burger,328.32
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Mushroom Burger,BB Mushroom Burger,4 Oz,192.66
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Mushroom Burger,BB Mushroom Burger,6 Oz,215.46
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,Portobello Mushroom Burger,Portobello Mushroom Burger,Go Mighty Burger,351.12
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,Portobello Mushroom Burger,Portobello Mushroom Burger,4 Oz,215.46
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,Portobello Mushroom Burger,Portobello Mushroom Burger,6 Oz,238.26
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,Southern BBQ Burger,Southern BBQ Burger,Go Mighty Burger,339.72
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,Southern BBQ Burger,Southern BBQ Burger,4 Oz,204.06
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,Southern BBQ Burger,Southern BBQ Burger,6 Oz,226.86
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Cheese Burger,BB Cheese Burger,Go Mighty Burger,328.32
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Cheese Burger,BB Cheese Burger,4 Oz,192.66
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Cheese Burger,BB Cheese Burger,6 Oz,215.46
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Bacon Burger,BB Bacon Burger,Go Mighty Burger,339.72
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Bacon Burger,BB Bacon Burger,4 Oz,204.06
+363aa9e6-2224-11e8-924e-0242ac110011,Butcher's Burger,BB Bacon Burger,BB Bacon Burger,6 Oz,226.86
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Mushroom N' Swiss Sandwich,Mushroom N' Swiss Sandwich,Sandwich,208.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Mushroom N' Swiss Sandwich,Mushroom N' Swiss Sandwich,Large Meal,288.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Mushroom N' Swiss Sandwich,Mushroom N' Swiss Sandwich,Medium Meal,268.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Wild West Sandwich,Wild West Sandwich,Sandwich,219.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Wild West Sandwich,Wild West Sandwich,Large Meal,299.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Wild West Sandwich,Wild West Sandwich,Medium Meal,279.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Bigg'er Tasty Sandwich,Bigg'er Tasty Sandwich,Sandwich,208.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Bigg'er Tasty Sandwich,Bigg'er Tasty Sandwich,Large Meal,288.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Bigg'er Tasty Sandwich,Bigg'er Tasty Sandwich,Medium Meal,268.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Grand Cheese Burger Sandwich,Grand Cheese Burger Sandwich,Sandwich,186.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Grand Cheese Burger Sandwich,Grand Cheese Burger Sandwich,Large Meal,266.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Grand Cheese Burger Sandwich,Grand Cheese Burger Sandwich,Medium Meal,246.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Cheesy Jalapeno Sandwich,Cheesy Jalapeno Sandwich,Sandwich,186.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Cheesy Jalapeno Sandwich,Cheesy Jalapeno Sandwich,Large Meal,266.0
+366a6f02-2224-11e8-924e-0242ac110011,Stack'd,Cheesy Jalapeno Sandwich,Cheesy Jalapeno Sandwich,Medium Meal,246.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken BBQ Sandwich,Chicken BBQ Sandwich,Single Combo,145.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken BBQ Sandwich,Chicken BBQ Sandwich,Triple Combo,230.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken BBQ Sandwich,Chicken BBQ Sandwich,Double,200.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken BBQ Sandwich,Chicken BBQ Sandwich,Single,145.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken BBQ Sandwich,Chicken BBQ Sandwich,Triple,230.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken BBQ Sandwich,Chicken BBQ Sandwich,Double Combo,200.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken Burger,Chicken Burger,Single Combo,65.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken Burger,Chicken Burger,Double,100.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken Burger,Chicken Burger,Single,65.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Chicken Burger,Chicken Burger,Double Combo,100.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Jalapeno Bazooka Burger,Jalapeno Bazooka Burger,Double,230.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Jalapeno Bazooka Burger,Jalapeno Bazooka Burger,150 Gm.,165.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Jalapeno Bazooka Burger,Jalapeno Bazooka Burger,Double Combo,230.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Jalapeno Bazooka Burger,Jalapeno Bazooka Burger,150 Gm Combo,165.0
+75ac36e8-b8d3-4ece-be8e-dfa540bd8994,Bazooka,Saroukh El Saada 4 Offer,Saroukh El Saada 4 Offer,Regular,580.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Burger Supreme Sandwich,Burger Supreme Sandwich,Regular,155.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Burger Supreme Sandwich,Burger Supreme Sandwich,Crispy Fries Combo,212.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Burger Supreme Sandwich,Burger Supreme Sandwich,Original Fries Combo,202.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Super Meal Offer,Super Meal Offer,Regular,247.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Star Chicken Burger ,Star Chicken Burger ,Regular,75.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Star Chicken Burger ,Star Chicken Burger ,Crispy Fries Combo,132.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Star Chicken Burger ,Star Chicken Burger ,Original Fries Combo,122.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Star Burger ,Star Burger ,Regular,75.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Star Burger ,Star Burger ,Crispy Fries Combo,132.0
+361c4965-2224-11e8-924e-0242ac110011,Prego,Star Burger ,Star Burger ,Original Fries Combo,122.0
+c0d9a925-d26a-4dde-9d39-2c125f3161d8,Munch & Shake,Shrooms Burger,Shrooms Burger,Double,245.0
+c0d9a925-d26a-4dde-9d39-2c125f3161d8,Munch & Shake,Shrooms Burger,Shrooms Burger,Single,184.0
+c0d9a925-d26a-4dde-9d39-2c125f3161d8,Munch & Shake,Old School Cheese Burger,Old School Cheese Burger,Double,228.0
+c0d9a925-d26a-4dde-9d39-2c125f3161d8,Munch & Shake,Old School Cheese Burger,Old School Cheese Burger,Single,167.0
+c0d9a925-d26a-4dde-9d39-2c125f3161d8,Munch & Shake,Smokey Burger,Smokey Burger,Double,241.0
+c0d9a925-d26a-4dde-9d39-2c125f3161d8,Munch & Shake,Smokey Burger,Smokey Burger,Single,180.0
+361ad8cb-2224-11e8-924e-0242ac110011,GAD,Mix Beef Burger Sandwich,Mix Beef Burger Sandwich,Kaiser,72.0
+361ad8cb-2224-11e8-924e-0242ac110011,GAD,Cheese Beef Burger Sandwich,Cheese Beef Burger Sandwich,Kaiser,65.0
+361ad8cb-2224-11e8-924e-0242ac110011,GAD,Beef Burger with Eggs Sandwich,Beef Burger with Eggs Sandwich,Kaiser,67.0
+361ad8cb-2224-11e8-924e-0242ac110011,GAD,Beef Burger Sandwich,Beef Burger Sandwich,Kaiser,60.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Cheese Burger Sandwich,Cheese Burger Sandwich,Single Combo,189.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Cheese Burger Sandwich,Cheese Burger Sandwich,Double,229.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Cheese Burger Sandwich,Cheese Burger Sandwich,Single,189.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Cheese Burger Sandwich,Cheese Burger Sandwich,Double Combo,229.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Mushroom Burger Sandwich,Mushroom Burger Sandwich,Single Combo,209.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Mushroom Burger Sandwich,Mushroom Burger Sandwich,Double,249.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Mushroom Burger Sandwich,Mushroom Burger Sandwich,Single,209.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Mushroom Burger Sandwich,Mushroom Burger Sandwich,Double Combo,249.0
+361a43a6-2224-11e8-924e-0242ac110011,Cook Door,Beef Burger,Beef Burger,Regular,115.0
